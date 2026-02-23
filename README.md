@@ -12,11 +12,11 @@ Predict daily bike rental demand using weather and seasonal features.
 - Streamlit (if app.py is UI)
 
 ## 📊 Project Workflow
-1. Data Cleaning
-2. Exploratory Data Analysis
-3. Feature Engineering
-4. Model Training
-5. Model Evaluation
+1. EDA
+2. Data Visualization
+3. Model Building
+4. Model Evaluation
+5. Hyper parameter tuning
 
 ## 🚀 How to Run
 
